@@ -1,0 +1,23 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Card renders without crashing 1`] = `
+<div
+  className="card"
+>
+  <div
+    className="card-container"
+  >
+    <div
+      className="img-container"
+    >
+      <img
+        alt="Snyderville Palau"
+        src="https://picsum.photos/id/1/200/300"
+      />
+    </div>
+    <h4>
+      Snyderville Palau
+    </h4>
+  </div>
+</div>
+`;

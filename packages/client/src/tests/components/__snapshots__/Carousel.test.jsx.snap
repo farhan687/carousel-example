@@ -1,0 +1,74 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Carousel renders without crashing 1`] = `
+<div
+  className="carousel-container"
+>
+  <div
+    className="carousel"
+  >
+    <div
+      className="slides"
+      style={
+        Object {
+          "left": "0%",
+        }
+      }
+    >
+      <section
+        className="slide"
+        key="0"
+      >
+        <div
+          className="slide-content"
+        >
+          <div
+            className="item-container"
+            key="0"
+            style={
+              Object {
+                "width": "50%",
+              }
+            }
+          >
+            <p>
+              Snyderville Palau
+            </p>
+          </div>
+          <div
+            className="item-container"
+            key="1"
+            style={
+              Object {
+                "width": "50%",
+              }
+            }
+          >
+            <p>
+              Durham New Hampshire
+            </p>
+          </div>
+        </div>
+      </section>
+    </div>
+  </div>
+  <div
+    className="carousel-action-row"
+  >
+    <button
+      disabled={true}
+      onClick={[Function]}
+      type="button"
+    >
+      Previous
+    </button>
+    <button
+      disabled={true}
+      onClick={[Function]}
+      type="button"
+    >
+      Next
+    </button>
+  </div>
+</div>
+`;

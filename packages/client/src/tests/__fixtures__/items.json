@@ -1,0 +1,21 @@
+[
+  {
+    "_id": "61f0b76b73b724e38be19bd3",
+    "index": 0,
+    "title": "Snyderville Palau",
+    "images": [
+      "https://picsum.photos/id/1/200/300",
+      "https://picsum.photos/id/2/200/300",
+      "https://picsum.photos/id/3/200/300"
+    ]
+  },
+  {
+    "_id": "61f0b76bc401b91bb8ac3b5a",
+    "index": 1,
+    "title": "Durham New Hampshire",
+    "images": [
+      "https://picsum.photos/id/4/200/300",
+      "https://picsum.photos/id/5/200/300"
+    ]
+  }
+]

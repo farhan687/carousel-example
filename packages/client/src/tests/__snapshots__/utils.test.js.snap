@@ -1,0 +1,27 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`utils groupDataInBatch 1`] = `
+Array [
+  Array [
+    Object {
+      "_id": "61f0b76b73b724e38be19bd3",
+      "images": Array [
+        "https://picsum.photos/id/1/200/300",
+        "https://picsum.photos/id/2/200/300",
+        "https://picsum.photos/id/3/200/300",
+      ],
+      "index": 0,
+      "title": "Snyderville Palau",
+    },
+    Object {
+      "_id": "61f0b76bc401b91bb8ac3b5a",
+      "images": Array [
+        "https://picsum.photos/id/4/200/300",
+        "https://picsum.photos/id/5/200/300",
+      ],
+      "index": 1,
+      "title": "Durham New Hampshire",
+    },
+  ],
+]
+`;
