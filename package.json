@@ -1,0 +1,17 @@
+{
+  "name": "carousel-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "lerna run start --stream",
+    "bootstrap": "lerna bootstrap",
+    "test": "lerna run test --scope client --stream",
+    "lint": "lerna run test:lint --scope client --stream"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "lerna": "^4.0.0"
+  }
+}
